@@ -1,0 +1,195 @@
+# Character
+- name: Forward
+  display-name:
+    Move Forward
+  key:  W
+
+- name: Left
+  key:  A
+
+- name: Backward
+  key:  S
+
+- name: Right
+  key:  D
+
+- name: ToggleCrouch
+  display-name:
+    Toggle Crouch
+  key:  C
+
+- name: ToggleProne
+  display-name:
+    Toggle Prone
+  key:  Z
+
+- name: Jump
+  key:  Space
+
+- name: Sprint
+  key:  Left Shift
+
+- name: Walk
+  key:  Left Ctrl
+
+- name: ToggleAutoRun
+  display-name:
+    Toggle Auto Run
+  key:  =
+
+- name: Interact
+  key:  F
+
+# Vehicle
+- name: VehicleForward
+  display-name:
+    Move Forward
+  key:  W
+
+- name: VehicleLeft
+  display-name:
+    Turn Left
+  key:  A
+
+- name: VehicleBackward
+  display-name:
+    Move Backward
+  key:  S
+
+- name: VehicleRight
+  display-name:
+    Turn Right
+  key:  D
+
+- name: Boost
+  key:  Left Shift
+
+- name: Handbrake
+  key:  Space
+
+- name: ToVehicleSeat_1
+  display-name:
+    Vehicle Seat 1
+  key:  Ctrl + 1
+
+- name: ToVehicleSeat_2
+  display-name:
+    Vehicle Seat 2
+  key:  Ctrl + 2
+
+- name: ToVehicleSeat_3
+  display-name:
+    Vehicle Seat 3
+  key:  Ctrl + 3
+
+- name: ToVehicleSeat_4
+  display-name:
+    Vehicle Seat 4
+  key:  Ctrl + 4
+
+- name: ToVehicleSeat_5
+  display-name:
+    Vehicle Seat 5
+
+# Combat
+- name: Fire
+  key:  Left Mouse Button
+
+- name: Targeting
+  key:  Right Mouse Button
+
+- name: Reload
+  key:  R
+
+- name: Weapon_1
+  display-name: Switch Weapon 1
+  key:  1
+
+- name: Weapon_2
+  display-name: Switch Weapon 2
+  key:  2
+
+- name: Weapon_3
+  display-name: Switch Weapon 3
+  key:  3
+
+- name: Weapon_4
+  display-name: Switch Weapon 4
+  key:  4
+
+- name: Weapon_5
+  display-name: Switch Weapon 5
+  key:  5
+
+- name: NextWeapon
+  display-name: Next Weapon
+  key:  G
+
+- name: ToggleFiringMode
+  display-name:
+    Toggle Firing Mode
+  key:  B
+
+- name: Unarm
+  key:  X
+
+# Camera
+- name: Free Look
+  key:  Left Alt
+
+- name: ToggleCamera
+  display-name:
+    Toggle 1st / 3rd Person View
+  key:  V
+
+- name: PeekLeft
+  display-name:
+    Peek Left
+  key:  Q
+
+- name: PeekRight
+  display-name:
+    Peek Right
+  key:  E
+
+# Inventory
+- name: ToggleInventory
+  display-name:
+    Toggle Inventory
+  key:  Tab
+
+# Healing
+
+- name: UseMedKit
+  key:  7
+
+- name: UseFirstAid
+  key:  8
+
+- name: UseBandage
+  key:  9
+
+- name: UseBoostItem
+  key:  0
+
+# Misc
+- name: ToggleMap
+  display-name:
+    Toggle Map
+  key:  M
+
+- name: InGameMenu
+  key:  Escape
+
+- name: PushToTalk
+  display-name:
+    Push To Talk
+  key:  T
+
+- name: ToggleMuteVoiceChat
+  display-name:
+    Toggle Mute Voice Chat
+  key:  Ctrl + T
+
+- name: ToggleUI
+  key:  Ctrl + U

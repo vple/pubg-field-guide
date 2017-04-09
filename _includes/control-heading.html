@@ -1,0 +1,10 @@
+{% assign default = site.data.controls.default | where: 'name', include.name | first %}
+{% assign recommended = site.data.controls.recommended | where: 'name', include.name | first %}
+
+## {{ default.display-name | default: default.name }}
+
+**Default: {{ default.key }}**
+
+{% if recommended.key and recommended.key != default.key %}
+  **Recommended: {{ recommended.key }}**
+{% endif %}
