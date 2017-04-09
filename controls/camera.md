@@ -1,8 +1,9 @@
 ---
 title: Camera Controls
+layout: page
 ---
 
-# Camera Controls
+<!-- # Camera Controls -->
 
 By default, moving your mouse will pan your camera.
 

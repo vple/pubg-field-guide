@@ -90,6 +90,7 @@
 - name: ToVehicleSeat_5
   display-name:
     Vehicle Seat 5
+  key:  Ctrl + 5
 
 # Combat
 - name: Fire

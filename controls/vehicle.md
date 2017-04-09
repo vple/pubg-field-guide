@@ -1,8 +1,9 @@
 ---
 title: Vehicle Controls
+layout: page
 ---
 
-# Vehicle Controls
+<!-- # Vehicle Controls -->
 
 {% include control-heading.html name="VehicleForward" %}
 

@@ -1,8 +1,9 @@
 ---
 title: Combat Controls
+layout: page
 ---
 
-# Combat Controls
+<!-- # Combat Controls -->
 
 {% include control-heading.html name="Fire" %}
 If you're not holding a weapon, you'll throw a punch instead.

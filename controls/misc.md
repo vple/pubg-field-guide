@@ -1,8 +1,9 @@
 ---
 title: Miscellaneous Controls
+layout: page
 ---
 
-# Miscellaneous Controls
+<!-- # Miscellaneous Controls -->
 
 {% include control-heading.html name="ToggleMap" %}
 

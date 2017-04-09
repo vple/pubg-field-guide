@@ -1,8 +1,9 @@
 ---
 title: Character Controls
+layout: page
 ---
 
-# Character Controls
+<!-- # Character Controls -->
 
 {% include control-heading.html name="Forward" %}
 
